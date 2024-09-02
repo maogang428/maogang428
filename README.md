@@ -6,7 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Epic Fullstack Web & Blockchain Developer
+## Fullstack Web & Blockchain Developer
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
@@ -54,10 +54,10 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 <p align="center">
-  <a href="https://github.com/BTC415?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BTC415&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@BTC415's github-readme-stats"/>
+  <a href="https://github.com/maogang428?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=maogang428&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@maogang428's github-readme-stats"/>
   </a>
-  <a href="https://github.com/BTC415?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=BTC415&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@BTC415's github-readme-streak-stats"/>
+  <a href="https://github.com/maogang428?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maogang428&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@maogang428's github-readme-streak-stats"/>
   </a>
 </p>
